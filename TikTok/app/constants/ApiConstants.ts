@@ -1,7 +1,7 @@
 const ApiConstants = {
   following: 'following',
   foryou: 'for_you',
-  revealAnswer: 'reveal'
+  revealAnswer: 'reveal',
 }
 
 export default ApiConstants;
